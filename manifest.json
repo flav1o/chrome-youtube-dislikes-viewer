@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+
+  "name": "Youtube Statistics",
+  "description": "Show me the dislikes!!",
+  "version": "1.0.0",
+  "icons": { "128": "icon.png" },
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_popup": "popup.html"
+  },
+  "permissions": ["activeTab"],
+  "content_security_policy": "script-src 'self' https://apis.google.com; object-src 'self'"
+}
