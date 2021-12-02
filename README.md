@@ -7,7 +7,7 @@ You just have to paste it in the config.js file.
 ## How to install it
 You just have to download/clone this repo. After that you just have to go to chrome settings > extensions and upload this extension. 
 
-## Search dislikes for a video
+## Search dislikes in a video
 You will have to copy the video id, but what is it?
 ```https://www.youtube.com/watch?v=dQw4w9WgXcQ```
 The video id is what comes after the "watch?v=" in the URL, so copy the "dQw4w9WgXcQ" and paste it into the extension search bar. And there you go, you now can check the video dislikes.
