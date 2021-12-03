@@ -12,5 +12,11 @@ You will have to copy the video id, but what is it?
 ```https://www.youtube.com/watch?v=dQw4w9WgXcQ```
 The video id is what comes after the "watch?v=" in the URL, so copy the "dQw4w9WgXcQ" and paste it into the extension search bar. And there you go, you now can check the video dislikes.
 
+## Api 
+Get yours here: https://console.cloud.google.com/apis/credentials
+
 ## Errors 
 If your video ID is invalid, the api won't return anything so there isn't going to be displayed any data.
+
+## Use Case
+![Ric da fazeirs](https://cdn.discordapp.com/attachments/765728140835684363/916017969392418936/unknown.png)
